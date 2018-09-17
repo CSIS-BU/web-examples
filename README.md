@@ -1,1 +1,2 @@
-# web-examples
+# Examples for HTML/CSS/JavaScript
+

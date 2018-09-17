@@ -1,0 +1,19 @@
+.item-class {
+    color: blue;
+}
+
+#item-id {
+    color: #00ff00;
+}
+
+li em {
+    background-color: rgb(255,0,0);
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+li > em {
+    background-color: yellow;
+    font-size: 40px;
+}
+
