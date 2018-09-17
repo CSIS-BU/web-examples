@@ -27,7 +27,11 @@ function getJSON() {
 }
 
 function updateHTML(jsonObj) {
-	document.getElementById("demo").innerHTML = jsonObj.university;
+	document.getElementById("demo").innerHTML = "<h2>" + jsonObj.university + "</h2>"
+		+ "<h3>" + jsonObj['course-semester'][2].semester + ", " + 
+			jsonObj['course-semester'][2].year +  "</h3>"
+		+ "<p>" + jsonObj['course-semester'][2]['courses'][0].name + "</p>"
+		+ "<p>" + JSON.stringify(jsonObj['course-semester'][2]['courses'][0]) + "</p>";
 }
 
 window.onload = function() {
