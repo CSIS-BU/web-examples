@@ -1,0 +1,460 @@
+{
+    "university" : "Bradley University",
+    "course-semester" : [
+        {
+            "semester" : "Fall", 
+            "year" : 2018,
+            "courses" : [
+                {
+                    "number" : "CIS 433/533",
+                    "name" : "Mobile and Wireless Networks",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "9:00 - 10:15 am",
+                            "location" : "BR 160"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 430/530",
+                    "name" : "Information Technology Infrastructure",
+                    "description" : [
+                        {
+                            "section" : 2,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 445/545",
+                    "name" : "Integrative Programming and Technology",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "3:00 - 4:15 pm",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 498",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 am",
+                            "location" : "BR 150"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2018,
+            "courses" : [
+                {
+                    "number" : "CS 330",
+                    "name" : "Net-Centric Computing",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        },
+                        {
+                            "section" : 2,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 pm",
+                            "location" : "BR 180"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 446/546",
+                    "name" : "Advanced Mobile Programming",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "9:00 - 10:15 am",
+                            "location" : "BR 180",
+                            "labs" : "BR 170"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 498",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 10,
+                            "advisee" : "Dariusz Jalowiec",
+                            "topic" : "",
+                            "days" : "W",
+                            "time" : "10:00 - 11:00 am",
+                            "location" : "BR 171"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 498",
+                    "name" : "Directed Individual Studies in Computer Information Systems",
+                    "description" : [
+                        {
+                            "section" : 10,
+                            "advisee" : "Kevin Hagemann",
+                            "topic" : "",
+                            "days" : "T",
+                            "time" : "2:30 - 3:30 pm",
+                            "location" : "BR 171"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2017,
+            "courses" : [
+                {
+                    "number" : "CIS 433/533",
+                    "name" : "Mobile and Wireless Networks",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "9:00 - 10:15 am",
+                            "location" : "BR 160"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 430/530",
+                    "name" : "Information Technology Infrastructure",
+                    "description" : [
+                        {
+                            "section" : 2,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 210",
+                    "name" : "Advanced Data Structures and Algorithms",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 am",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 498",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 am",
+                            "location" : "BR 150"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2017,
+            "courses" : [
+                {
+                    "number" : "CS 330",
+                    "name" : "Net-Centric Computing",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        },
+                        {
+                            "section" : 2,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 pm",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 446/546",
+                    "name" : "Advanced Mobile Programming",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "1:00 - 2:15 pm",
+                            "location" : "BR 180",
+                            "labs" : "BR 170"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2016,
+            "courses" : [
+                {
+                    "number" : "CIS 433/533",
+                    "name" : "Mobile and Wireless Networks",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "1:30 - 2:45 pm",
+                            "location" : "BR 290"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 430/530",
+                    "name" : "Information Technology Infrastructure",
+                    "description" : [
+                        {
+                            "section" : 2,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 210",
+                    "name" : "Advanced Data Structures and Algorithms",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 am",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 498",
+                    "name" : "Directed Individual Studies in Computer Information Systems",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "advisee" : "Vincent Dory",
+                            "topic" : "Wireless Penetration Testing in Fraternity House",
+                            "days" : "T",
+                            "time" : "2:30 - 3:30 pm",
+                            "location" : "BR 171"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2016,
+            "courses" : [
+                {
+                    "number" : "CS 330",
+                    "name" : "Net-Centric Computing",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        },
+                        {
+                            "section" : 2,
+                            "days" : "M W",
+                            "time" : "4:30 - 5:45 pm",
+                            "location" : "BR 290"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 446/546",
+                    "name" : "Advanced Mobile Programming",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "1:00 - 2:15 pm",
+                            "location" : "BR 180",
+                            "labs" : "BR 170"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 698",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "advisee" : "Jiajun Lu",
+                            "topic" : "iOS App Development",
+                            "days" : "T TH",
+                            "time" : "2:30 - 3:30 pm",
+                            "location" : "BR 171"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2015,
+            "courses" : [
+                {
+                    "number" : "CIS 433/533",
+                    "name" : "Mobile and Wireless Networks",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "1:30 - 2:45 pm",
+                            "location" : "BR 290"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 430/530",
+                    "name" : "Information Technology Infrastructure",
+                    "description" : [
+                        {
+                            "section" : 2,
+                            "days" : "M W",
+                            "time" : "1:30 - 2:45 pm",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 210",
+                    "name" : "Advanced Data Structures and Algorithms",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "3:00 - 4:15 pm",
+                            "location" : "BR 150"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 498",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 5,
+                            "advisee" : "Conor Aberle, Dakota Leonard",
+                            "topic" : "iOS App Development",
+                            "days" : "T TH",
+                            "time" : "4:30 - 5:30 pm",
+                            "location" : "BR 171"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 698",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 8,
+                            "advisee" : "Krishna Kumari Sanaboina",
+                            "topic" : "Network Interdiction",
+                            "days" : "F",
+                            "time" : "4:00 - 5:00 pm",
+                            "location" : "online"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2015,
+            "courses" : [
+                {
+                    "number" : "CS 330",
+                    "name" : "Net-Centric Computing",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "10:30 - 11:45 am",
+                            "location" : "BR 180"
+                        },
+                        {
+                            "section" : 2,
+                            "days" : "T TH",
+                            "time" : "1:30 - 2:45 pm",
+                            "location" : "BR 290"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 498",
+                    "name" : "Directed Individual Studies in Computer Science",
+                    "description" : [
+                        {
+                            "section" : 10,
+                            "advisee" : "Andrew Bocanegra",
+                            "topic" : "Android App Development",
+                            "days" : "F",
+                            "time" : "2:00 - 3:00 pm",
+                            "location" : "BR 171"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2014,
+            "courses" : [
+                {
+                    "number" : "CIS 433/533",
+                    "name" : "Mobile and Wireless Networks",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "1:30 - 2:45 pm",
+                            "location" : "BR 290"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CIS 210",
+                    "name" : "Applications of Data Structures and Algorithms",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "days" : "T TH",
+                            "time" : "3:00 - 4:15 pm",
+                            "location" : "BR 150"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

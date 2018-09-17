@@ -1,0 +1,194 @@
+{
+    "university" : "Cameron University",
+    "course-semester" : [
+        {
+            "semester" : "Spring", 
+            "year" : 2014,
+            "courses" : [
+                {
+                    "number" : "CIS 1013",
+                    "name" : "Introduction to Computer Information Systems",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "location" : "online"
+                        },
+                        {
+                            "section" : 2,
+                            "location" : "in-class/online"
+                        }
+                    ]
+                },
+                {
+                    "number" : "CS 2333",
+                    "name" : "Web Systems Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1213",
+                    "name" : "Programming Logic",
+                    "description" : []
+                },
+                {
+                    "number" : "MM 2033",
+                    "name" : "Web Communications and Design",
+                    "description" : []
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2013,
+            "courses" : [
+                {
+                    "number" : "CIS 1013",
+                    "name" : "Introduction to Computer Information Systems",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "location" : "online"
+                        }
+                    ]
+                },
+                {
+                    "number" : "IT 1063",
+                    "name" : "Introduction to Networking",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1213",
+                    "name" : "Programming Logic",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1413",
+                    "name" : "Programming I",
+                    "description" : []
+                },
+                {
+                    "number" : "CIS 2033",
+                    "name" : "Fundamental of Systems Analysis and Design",
+                    "description" : []
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2013,
+            "courses" : [
+                {
+                    "number" : "CIS 1013",
+                    "name" : "Introduction to Computer Information Systems",
+                    "description" : []
+                },
+                {
+                    "number" : "CS 1733",
+                    "name" : "Operating Systems Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "CS 2333",
+                    "name" : "Web Systems Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1213",
+                    "name" : "Programming Logic",
+                    "description" : []
+                },
+                {
+                    "number" : "MM 2033",
+                    "name" : "Web Communications and Design",
+                    "description" : []
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2012,
+            "courses" : [
+                {
+                    "number" : "CIS 1013",
+                    "name" : "Introduction to Computer Information Systems",
+                    "description" : [
+                        {
+                            "section" : 1,
+                            "location" : "online"
+                        }
+                    ]
+                },
+                {
+                    "number" : "IT 1063",
+                    "name" : "Introduction to Networking",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1413",
+                    "name" : "Programming I",
+                    "description" : []
+                },
+                {
+                    "number" : "CIS 2033",
+                    "name" : "Fundamental of Systems Analysis and Design",
+                    "description" : []
+                }
+            ]
+        },
+        {
+            "semester" : "Spring", 
+            "year" : 2012,
+            "courses" : [
+                {
+                    "number" : "CS 1733",
+                    "name" : "Operating Systems Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "CS 2333",
+                    "name" : "Web Systems Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 1213",
+                    "name" : "Programming Logic",
+                    "description" : []
+                },
+                {
+                    "number" : "MM 2033",
+                    "name" : "Web Communications and Design",
+                    "description" : []
+                },
+                {
+                    "number" : "IT 2063",
+                    "name" : "Internetworking Technologies",
+                    "description" : []
+                },
+                {
+                    "number" : "MM 3113",
+                    "name" : "Distance Learning Development",
+                    "description" : [
+                        { "duration" : "March 5 - April 3" }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester" : "Fall", 
+            "year" : 2011,
+            "courses" : [
+                {
+                    "number" : "CIS 1013",
+                    "name" : "Introduction to Computer Information Systems",
+                    "description" : [
+                        { "note" : "three sections"}
+                    ]
+                },
+                {
+                    "number" : "CIS 2033",
+                    "name" : "Fundamental of Systems Analysis and Design",
+                    "description" : []
+                }
+            ]
+        }
+    ]
+}
